@@ -1,0 +1,6 @@
+#include <stdio>
+int mais() 
+{
+printf("hello Word") ;
+return 0;
+}
