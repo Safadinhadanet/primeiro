@@ -1,5 +1,5 @@
 #include <stdio>
-int mais() 
+int main() 
 {
 printf("hello Word") ;
 return 0;
